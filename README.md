@@ -31,8 +31,13 @@ The following are my sketches of how the project will look like:
 * show the description of games per year: trend,common game type, etc.
 * show the win and loss rates.
 
+[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.44.29%20PM.png)]
+
+[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.44.54%20PM.png)]
+
+[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.45.00%20PM.png)]
 
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am not sure how to visualize entire data on a global map. Also how to use animation is a challenge job for different types of variables.
