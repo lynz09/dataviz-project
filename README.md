@@ -31,11 +31,11 @@ The following are my sketches of how the project will look like:
 * show the description of games per year: trend,common game type, etc.
 * show the win and loss rates.
 
-[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.44.29%20PM.png)]
+![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.44.29%20PM.png)
 
-[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.44.54%20PM.png)]
+![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.44.54%20PM.png)
 
-[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.45.00%20PM.png)]
+![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.45.00%20PM.png)
 
 
 ## Open Questions
