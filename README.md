@@ -7,9 +7,9 @@ The data I propose to visualize for my project is the [International football re
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a line chart sand it hows the number of different types of competitions from 2010 to 2020. 
 
-[![image]()](https://vizhub.com/lynz09/608fe5fa702a45f6be0bfcf090978afb)
+[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.34.05%20PM.png)](https://vizhub.com/lynz09/608fe5fa702a45f6be0bfcf090978afb)
 
 
 ## Questions & Tasks
