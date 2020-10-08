@@ -9,7 +9,7 @@ The data I propose to visualize for my project is the [International football re
 
 I’ve created a proof of concept visualization of this data. It's a line chart and it hows the number of different types of competitions from 2010 to 2020. 
 
-[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.34.05%20PM.png)](https://vizhub.com/lynz09/608fe5fa702a45f6be0bfcf090978afb)
+[![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/image/Screen%20Shot%202020-09-30%20at%2011.34.05%20PM.png)](https://vizhub.com/lynz09/608fe5fa702a45f6be0bfcf090978afb)
 
 
 ## Questions & Tasks
@@ -31,13 +31,17 @@ The following are my sketches of how the project will look like:
 * show the description of games per year: trend,common game type, etc.
 * show the win and loss rates.
 
-![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.44.29%20PM.png)
+![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/image/Screen%20Shot%202020-09-30%20at%2011.44.29%20PM.png)
 
-![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.44.54%20PM.png)
+![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/image/Screen%20Shot%202020-09-30%20at%2011.44.54%20PM.png)
 
-![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/Screen%20Shot%202020-09-30%20at%2011.45.00%20PM.png)
+![image](https://github.com/lynz09/dataviz-project-proposal/blob/master/image/Screen%20Shot%202020-09-30%20at%2011.45.00%20PM.png)
 
 
 ## Open Questions
 
 I am not sure how to visualize entire data on a global map. Also how to use animation is a challenge job for different types of variables.
+
+## Schedule of delivrables
+
+
