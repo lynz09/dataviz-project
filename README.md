@@ -9,8 +9,7 @@ The data I propose to visualize for my project is the [International football re
 
 I’ve created a proof of concept visualization of this data. It's a line chart and it hows the number of different types of competitions from 2010 to 2020. 
 
-[![image](https://github.com/lynz09/dataviz-project/blob/master/image/top10.png)]
-(https://vizhub.com/lynz09/3a5b8ffb514d43d085e6253999f9f33f)
+[![image](https://github.com/lynz09/dataviz-project/blob/master/image/top10.png)](https://vizhub.com/lynz09/3a5b8ffb514d43d085e6253999f9f33f)
 
 
 
