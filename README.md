@@ -1,4 +1,4 @@
-# dataviz-project-proposal
+# dataviz-project
 
 ## Data
 
